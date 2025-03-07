@@ -1,5 +1,5 @@
 import React from 'react';
-import { SideTop } from './Sidetop';
+import { SideTop } from './SideTop';
 import { SideBottom } from "./SideBottom";
 
 export const SideBar = () => {
